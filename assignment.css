@@ -1,0 +1,49 @@
+#studentDiv, #flip {
+padding: 5px;
+text-align: center;
+background-color: pink;
+border: solid 1px;
+}
+
+#menu{
+padding: 10px;
+text-align: center;
+background-color: pink;
+border: solid 2px;
+}
+
+#studentDiv {
+padding: 30px;
+display: pink;
+}
+
+#flip:hover{
+background-color:silver;
+font-size:bold;
+color:red
+}
+
+#addstudent{
+padding: 5px;
+text-align: center;
+background-color: pink;
+border: solid 1px;
+}
+
+#deletestudent{
+padding: 5px;
+text-align: center;
+background-color: pink;
+border: solid 1px;
+}
+
+button, div, input{
+padding:3px;}
+
+#updateStu{
+padding: 5px;
+text-align: center;
+background-color: pink;
+border: solid 1px;
+}
+ 
